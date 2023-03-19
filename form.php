@@ -1,4 +1,4 @@
-  <form  action="/ma-page-de-traitement"  method="post">
+   <form  action=""  method="get">
     <div>
       <label  for="nom">Nom :</label>
       <input  type="text"  id="nom"  name="user_name">
